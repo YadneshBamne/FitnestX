@@ -1,0 +1,20 @@
+name: calendar_agenda
+description: Calendar agenda widget with a lot of customizable settings.
+version: 0.0.2+2  # This is just your own local version, unrelated to the dependency
+
+homepage: https://github.com/sud0su/calendar_agenda
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8  # Optional
+  scrollable_positioned_list: ^0.3.8
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
